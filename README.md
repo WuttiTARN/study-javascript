@@ -1,1 +1,1 @@
-# sturdy-javascript
+# study-javascript
